@@ -228,9 +228,9 @@ Kadex Music builds upon the work of several open-source projects and independent
 
 Special thanks to the following projects and their contributors for their work, tools, libraries, and inspiration:
 
-- "Team NewPipe" (https://github.com/teamnewpipe/) — For their contributions to the NewPipe ecosystem.
-- "JunkFood02" (https://github.com/junkfood02/) — For their open-source projects and contributions.
-- "Soundly by jonysc12" (https://github.com/jonysc12/Soundly) — For their work and contribution to the Android music player ecosystem.
+- "Team NewPipe" (https://github.com/teamnewpipe/) — For their contributions to the NewPipe extractor.
+- "JunkFood02" (https://github.com/junkfood02/) — For their YTDLP fork.
+- "Soundly by jonysc12" (https://github.com/jonysc12/Soundly) — For their work and contribution to the Android music scanner (local) ecosystem.
 
 Their work has helped support the development and evolution of Kadex Music.
 
