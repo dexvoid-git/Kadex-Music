@@ -1,5 +1,3 @@
-Kadex Music
-
 <p align="center">
   <img src="Assets/Kadex_banner.png" alt="Kadex Music banner" width="100%">
 </p><h1 align="center">Kadex Music</h1><p align="center">
